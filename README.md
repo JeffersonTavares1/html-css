@@ -1,4 +1,2 @@
 # html-css
- Curso HTML e CSS CursoEmVideo.
- 
- teste
+ Curso HTML e CSS CursoEmVideo

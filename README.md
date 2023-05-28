@@ -5,3 +5,4 @@ Inicio do curso. Parágrafo, símbolos e quebras de linha
 
 Estudando Imagens
 
+Estudando Hierarquia de Títulos

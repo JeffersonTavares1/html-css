@@ -7,3 +7,5 @@ Estudando Imagens
 Estudando Hierarquia de Títulos
 
 Estudando Formatação de texto
+
+Estudando Listas

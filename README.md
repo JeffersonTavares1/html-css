@@ -11,3 +11,5 @@ Estudando Formatação de texto
 Estudando Listas
 
 Estudando Links
+
+Estudando Imagens no HTML

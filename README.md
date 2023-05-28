@@ -15,3 +15,5 @@ Estudando Links
 Estudando Imagens no HTML
 
 Estudando Audio
+
+Estudando Vídeo

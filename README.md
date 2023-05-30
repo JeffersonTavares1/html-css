@@ -19,3 +19,5 @@ Estudando Audio
 Estudando Vídeo
 
 Estudando CSS, fim do mundo 01
+
+texte de commit no terminal

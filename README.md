@@ -20,3 +20,4 @@ Estudando Vídeo
 
 Estudando CSS, fim do mundo 01
 
+Estudando Cores

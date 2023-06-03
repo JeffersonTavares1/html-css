@@ -25,3 +25,5 @@ Estudando Cores
 Estudando Fonte e alinhamento de texto
 
 Estudando id e class
+
+Estudando pseudo elemento

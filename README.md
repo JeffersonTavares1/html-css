@@ -21,3 +21,5 @@ Estudando Vídeo
 Estudando CSS, fim do mundo 01
 
 Estudando Cores
+
+Estudando Fonte e alinhamento de texto

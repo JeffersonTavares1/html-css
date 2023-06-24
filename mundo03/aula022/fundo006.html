@@ -3,25 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>page</title>
+    <title>Fundo fixo de Tela</title>
     <style>
         body {
             height: 100vh; /*body com 100% da altura da vewport*/
-            background-color: black;
+            /*background-color: black;
             background-image: url("imagens/wallpaper002.jpg");
             background-position: center center;
             background-repeat: no-repeat;
             background-size: cover;
+            background-attachment: fixed;*/
             
             /*
                 100% = vai deixar sempre no tamanho 100% da tela
                 
+                shot rem de re-zero:)
+                color > image > position > repeat > (size) > attachment
+                
+                size não fuciona
             */
+            
+            background: black url("imagens/wallpaper002.jpg") center center no-repeat fixed;
+            background-size: cover;
         }
         
         main {
             background-color: white;
-            width: 400px;
+            max-width: 300px;
             padding: 10px;
             margin: auto;
             border: 1px solid darkblue;
@@ -37,7 +45,9 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est recusandae asperiores ex architecto cumque earum modi ab placeat, tenetur deserunt dicta optio veritatis voluptatem id beatae accusantium, omnis, nobis praesentium.</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est recusandae asperiores ex architecto cumque earum modi ab placeat, tenetur deserunt dicta optio veritatis voluptatem id beatae accusantium, omnis, nobis praesentium.</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est recusandae asperiores ex architecto cumque earum modi ab placeat, tenetur deserunt dicta optio veritatis voluptatem id beatae accusantium, omnis, nobis praesentium.</p>
-        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est recusandae asperiores ex architecto cumque earum modi ab placeat, tenetur deserunt dicta optio veritatis voluptatem id beatae accusantium, omnis, nobis praesentium.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est recusandae asperiores ex architecto cumque earum modi ab placeat, tenetur deserunt dicta optio veritatis voluptatem id beatae accusantium, omnis, nobis praesentium.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est recusandae asperiores ex architecto cumque earum modi ab placeat, tenetur deserunt dicta optio veritatis voluptatem id beatae accusantium, omnis, nobis praesentium.</p>
     </main>
 </body>
 </html>

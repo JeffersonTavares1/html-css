@@ -34,3 +34,5 @@ Estudando sombras bodas e Caixas
 
 Criando um Projeto básico de Site:
 <a href="https://jeffersontavares1.github.io/html-css/desafios/desafio10/android.html">Executar o Projeto</a>
+
+Estudando Imagens de Fundo e posicionamento

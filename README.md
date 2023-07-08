@@ -39,3 +39,5 @@ Estudando Imagens de Fundo e posicionamento
 
 Projeto Cordel:
 <a href="https://jeffersontavares1.github.io/html-css/desafios/desafio12/index.html">Executar o Projeto</a>
+
+Estudando Tabelas
